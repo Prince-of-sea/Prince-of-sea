@@ -7,9 +7,6 @@
 [![3](http://img.pointi.jp/bn/bn120_60.gif)](https://is.gd/WVZvnI)
 [![4](https://www.chobirich.com/img/mypage/introduse/friend_120_60_b.gif)](https://bit.ly/38Nfr89)
 
-<DIV style="font-size:12px;"><IFRAME src="http://link.tenki-yoho.com/img.php?all130,fc2" width=130 height=156 scrolling=NO frameborder=0 marginwidth=0 marginheight=0><A href="http://www.tenki-yoho.com/" target=_blank>天気予報</A></IFRAME><br></DIV>
-
-
 
 PC Specs:<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/cgwavn-6.png)](https://valid.x86.fr/cgwavn)<br>
