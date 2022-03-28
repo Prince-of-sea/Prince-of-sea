@@ -13,4 +13,4 @@ PC Specs:<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/2jucci-6.png)](https://valid.x86.fr/2jucci)<br>
 
 HOMEPAGE:<br>
-http://sh.st/wsrMP<br>
+http://festyy.com/ea3qam<br>
