@@ -1,9 +1,5 @@
 *― Core 2 Duoが現役ではない、と僕たちはどうして言えるんだろう？ ―*
 
- - あなたは![アクセスカウンター](http://www.rays-counter.com/d505_f7_022/6241f4e53c2ce/)人目の訪問者です！！！！！<br>
-
-![1](http://www.rays-counter.com/images/counter_01.gif)![2](http://www.rays-counter.com/images/counter_02.gif)![3](http://www.rays-counter.com/images/counter_03.gif)![4](http://www.rays-counter.com/images/counter_04.gif)![5](http://www.rays-counter.com/images/counter_05.gif) 
-
 [![1](https://dietnavi.com/banner/120-60-3.gif)](https://youtu.be/dQw4w9WgXcQ)
 [![2](http://www.gendama.jp/img/invitation_banner23.gif)](https://cutt.ly/0jtlseB)
 [![3](http://img.pointi.jp/bn/bn120_60.gif)](https://is.gd/WVZvnI)
@@ -16,3 +12,7 @@ PC Specs:<br>
 
 Web Site:<br>
 http://festyy.com/ea3qam<br>
+
+ - あなたは![アクセスカウンター](http://www.rays-counter.com/d505_f7_022/6241f4e53c2ce/)人目の訪問者です！！！！！<br>
+
+![1](http://www.rays-counter.com/images/counter_01.gif)![2](http://www.rays-counter.com/images/counter_02.gif)![3](http://www.rays-counter.com/images/counter_03.gif)![4](http://www.rays-counter.com/images/counter_04.gif)![5](http://www.rays-counter.com/images/counter_05.gif) 
