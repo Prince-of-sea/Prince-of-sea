@@ -1,4 +1,4 @@
-*[Intelをも冒涜する12ThreadsのCPU―](https://www.gdm.or.jp/review/2020/0505/346819)<br>　　　　それは、俺たちが手にした偶然の産物。*
+*[Intelをも冒涜する12ThreadsのCPU――<br>　　　　それは、俺たちが手にした偶然の産物。](https://www.gdm.or.jp/review/2020/0505/346819)*
 
 [![1](https://dietnavi.com/banner/120-60-3.gif)](https://youtu.be/dQw4w9WgXcQ)
 [![2](http://www.gendama.jp/img/invitation_banner23.gif)](https://cutt.ly/0jtlseB)
