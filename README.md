@@ -10,8 +10,8 @@ PC Specs:<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/cgwavn-2.png)](https://valid.x86.fr/cgwavn)<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/2jucci-2.png)](https://valid.x86.fr/2jucci)<br>
 
-Web Site:<br>
-http://festyy.com/ea3qam<br>
+gist:<br>
+[自作ONSコンバータリストだにょ](https://gist.github.com/Prince-of-sea/62ce6ae0ce5aa06d0b425666038b8a71)<br>
 
  - あなたは![アクセスカウンター](http://www.rays-counter.com/d505_f7_022/6241f4e53c2ce/)人目の訪問者です！！！！！<br>
 
