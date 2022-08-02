@@ -14,7 +14,7 @@
 ## タイトル一覧
  | ブランド名 | 作品タイトル | 原作発売日 | 進捗 | 公式 | DL先 | 
  | :- | :- | :- | :- | :-: | :-: | 
- | ACTRESS | 虹を見つけたら教えて。 | 2004/10/29 | 70% | [＊](https://www.actress.ne.jp/products/nijimite/index.html) | [＊](https://github.com/Prince-of-sea/ACTGS2ONS_Actress-Nijimite) | 
+ | ACTRESS | 虹を見つけたら教えて。 | 2004/10/29 | 75% | [＊](https://www.actress.ne.jp/products/nijimite/index.html) | [＊](https://github.com/Prince-of-sea/ACTGS2ONS_Actress-Nijimite) | 
  | Liar-soft | SEVEN-BRIDGE | 2005/02/18 | 70% | [＊](https://www.liar.co.jp/seven.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_Liar-SB) | 
  | タイガーソフト | むすんで、ひらいて。 | 2006/02/03 | 30% | [＊](https://web.archive.org/web/20070306101142fw_/http://www.tiger-soft.com/musunde/index.htm) | [＊](https://github.com/Prince-of-sea/MJO2ONS_Tiger-Musuhira) | 
  | Supplement Time | 未来のキミと、すべての歌に― | 2007/12/31 | 80% | [＊](http://doubleegg.blog89.fc2.com/blog-entry-14.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_ST-miku) | 
