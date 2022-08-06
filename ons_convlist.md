@@ -1,7 +1,8 @@
 ## ons_convlist
-自作ONSコンバータリストです
  - 原作発売日古い順で並べてあります<br>
    ~~深刻な祖母シリーズ汚染~~
+ - 当然全部メーカーに許可取ってません<br>
+   問い合わせとかマジで迷惑だから絶対しないでね
  - 進捗の%表記は大体以下のとおりです<br>
    10%:ほぼ作ってない<br>
    30%:未完成、体験版くらいは動きそう<br>
@@ -18,6 +19,7 @@
  | Liar-soft | SEVEN-BRIDGE | 2005/02/18 | 70% | [＊](https://www.liar.co.jp/seven.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_Liar-SB) | 
  | タイガーソフト | むすんで、ひらいて。 | 2006/02/03 | 30% | [＊](https://web.archive.org/web/20070306101142fw_/http://www.tiger-soft.com/musunde/index.htm) | [＊](https://github.com/Prince-of-sea/MJO2ONS_Tiger-Musuhira) | 
  | Supplement Time | 未来のキミと、すべての歌に― | 2007/12/31 | 80% | [＊](http://doubleegg.blog89.fc2.com/blog-entry-14.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_ST-miku) | 
+ | Noesis | ラブesエム | 2013/08/30 | 70% | [＊](http://www.gungnir.co.jp/noesis/products/lovesm/index.html) | [＊](https://github.com/Prince-of-sea/IGS2ONS_Noesis-loveesm) | 
  | アパタイト | 祖母と僕 | 2017/03/10 | 65%? | [＊](https://www.appetite-game.com/apt_085.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo) | 
  | コンプリーツ | ママとの甘い性活Ⅱ | 2017/07/21 | 60% | [＊](http://www.complets.co.jp/complets/MS2/index.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_COMP-mama2) | 
  | アパタイト | ボクの祖母 | 2017/09/01 | 65%? | [＊](https://www.appetite-game.com/apt_095.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo) | 
