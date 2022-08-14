@@ -2,7 +2,9 @@
  - 原作発売日古い順で並べてあります<br>
    ~~深刻な祖母シリーズ汚染~~
  - 当然全部メーカーに許可取ってません<br>
-   問い合わせとかマジで迷惑だから絶対しないでね
+   問い合わせとか迷惑だから絶対しないでね
+ - 変換できるほとんどがR18タイトルです<br>
+   未成年の方の利用はお控えください~~(建前)~~
  - 進捗の%表記は大体以下のとおりです<br>
    10%:ほぼ作ってない<br>
    30%:未完成、体験版くらいは動きそう<br>
@@ -32,3 +34,8 @@
  | アパタイト | 孫の巨根の虜になりました | 2020/02/14 | 65%? | [＊](https://www.appetite-game.com/apt_155.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo) | 
  | アパタイト | まごかつ | 2020/11/13 | 65% | [＊](https://www.appetite-game.com/apt_173.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo) | 
  | るび様を崇める会 | セイラに夢みたいないちゃラブご奉仕させていただけますか | 2022/07/15 | 55% | [＊](https://rubisama.com/seira/) | [＊](https://github.com/Prince-of-sea/TYRANO2ONS_Rubisama-seilove/) | 
+
+
+<div align="center">
+ <a href="https://github.com/Prince-of-sea">もどる</a>
+</div>
