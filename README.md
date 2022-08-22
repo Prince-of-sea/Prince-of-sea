@@ -18,4 +18,5 @@ PC Specs:<br>
 ![1](http://www.rays-counter.com/images/counter_01.gif)![2](http://www.rays-counter.com/images/counter_02.gif)![3](http://www.rays-counter.com/images/counter_03.gif)![4](http://www.rays-counter.com/images/counter_04.gif)![5](http://www.rays-counter.com/images/counter_05.gif) 
 
 
+[![バナー](http://www.alcot.biz/img/alban_01.jpg)](http://www.alcot.biz/)
 [![ポケットの中の妹たち](https://www.kawaiko.net/new/pocket_bnr.jpg)](https://www.kawaiko.net/)
