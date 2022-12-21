@@ -1,7 +1,7 @@
 ## 自作ONScripterコンバータリスト
  - 原作発売日古い順で並べてあります<br>
    ~~深刻な祖母シリーズ汚染~~
- - とりあえず**すべてPSPで動作します**<br>
+ - とりあえず**すべて[PSPで動作を確認](https://github.com/Prince-of-sea/ONScripter_Multi_Converter)しています**<br>
    Linux/Androidも動くとは思いますが未検証<br>
  - 当然全部メーカーに許可取ってません<br>
    問い合わせとか迷惑だから絶対しないでね
