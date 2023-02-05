@@ -1,4 +1,4 @@
-## 自作ONScripterコンバータリスト
+## 自作ONScripterコンバータ 対応作品リスト
  - 原作発売日古い順で並べてあります<br>
    ~~深刻な祖母シリーズ汚染~~
  - とりあえず**すべて[PSPで動作を確認](https://github.com/Prince-of-sea/ONScripter_Multi_Converter)しています**<br>
