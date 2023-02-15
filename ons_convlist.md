@@ -22,9 +22,9 @@
  | :- | :- | :- | :- | :-: | :-: | 
  | ACTRESS | 虹を見つけたら教えて。 | 2004/10/29 | 75% | [＊](https://www.actress.ne.jp/products/nijimite/index.html) | [＊](https://github.com/Prince-of-sea/ACTGS2ONS_Actress-Nijimite) | 
  | Liar-soft | SEVEN-BRIDGE | 2005/02/18 | 70% | [＊](https://www.liar.co.jp/seven.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_Liar-SB) | 
- | タイガーソフト | むすんで、ひらいて。 | 2006/02/03 | 30% | [＊](https://web.archive.org/web/20070306101142fw_/http://www.tiger-soft.com/musunde/index.htm) | [＊](https://github.com/Prince-of-sea/MJO2ONS_Tiger-Musuhira) | 
+ | タイガーソフト | むすんで、ひらいて。※体験版のみ | 2006/02/03 | 30% | [＊](https://web.archive.org/web/20070306101142fw_/http://www.tiger-soft.com/musunde/index.htm) | [＊](https://github.com/Prince-of-sea/MJO2ONS_Tiger-Musuhira) | 
  | Supplement Time | 未来のキミと、すべての歌に― | 2007/12/31 | 80% | [＊](http://doubleegg.blog89.fc2.com/blog-entry-14.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_ST-miku) | 
- | raiL-soft | 霞外籠逗留記 | 2008/07/25 | 65% | [＊](https://www.liar.co.jp/raiL/kagerou_top.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_raiL-kagerou) | 
+ | raiL-soft | 霞外籠逗留記 | 2008/07/25 | 70% | [＊](https://www.liar.co.jp/raiL/kagerou_top.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_raiL-kagerou) | 
  | Noesis | ラブesエム | 2013/08/30 | 70% | [＊](http://www.gungnir.co.jp/noesis/products/lovesm/index.html) | [＊](https://github.com/Prince-of-sea/IGS2ONS_Noesis-loveesm) | 
  | アパタイト | 祖母と僕 | 2017/03/10 | 65%? | [＊](https://www.appetite-game.com/apt_085.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo) | 
  | コンプリーツ | ママとの甘い性活Ⅱ | 2017/07/21 | 60% | [＊](http://www.complets.co.jp/complets/MS2/index.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_COMP-mama2) | 
