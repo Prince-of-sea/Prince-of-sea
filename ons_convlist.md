@@ -1,6 +1,6 @@
 ## 自作ONScripterコンバータ 対応作品リスト
  - 原作発売日古い順で並べてあります<br>
-   ~~深刻な祖母シリーズ汚染~~
+   (コンバータ側が当時の原作に対応しているとは限りませんが)<br>
  - とりあえず**すべて[PSPで動作を確認](https://github.com/Prince-of-sea/ONScripter_Multi_Converter)しています**<br>
    Linux/Androidも動くとは思いますが未検証<br>
  - 当然全部メーカーに許可取ってません<br>
@@ -29,7 +29,7 @@
  | コンプリーツ | ママとの甘い性活Ⅱ | 2017/07/21 | 60% | [＊](http://www.complets.co.jp/complets/MS2/index.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_COMP-mama2) | 
  | るび様を崇める会 | セイラに夢みたいないちゃラブご奉仕させていただけますか | 2022/07/15 | 60% | [＊](https://rubisama.com/seira/) | [＊](https://github.com/Prince-of-sea/TYRANO2ONS_Rubisama-seilove/) | 
 
-＞＞~~醜かった~~見にくかったので退避させた祖母シリーズコンバーターは[こちら](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo)
+＞＞~~醜かった~~見にくかったので退避させた祖母シリーズコンバータは[こちら](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo)
 
 <div align="center">
  <a href="https://github.com/Prince-of-sea">トップ画面にもどる</a>
