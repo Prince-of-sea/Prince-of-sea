@@ -24,9 +24,10 @@
  | Liar-soft | SEVEN-BRIDGE | 2005/02/18 | 70% | [＊](https://www.liar.co.jp/seven.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_Liar-SB) | 
  | タイガーソフト | むすんで、ひらいて。※体験版のみ | 2006/02/03 | 30% | [＊](https://web.archive.org/web/20070306101142fw_/http://www.tiger-soft.com/musunde/index.htm) | [＊](https://github.com/Prince-of-sea/MJO2ONS_Tiger-Musuhira) | 
  | Supplement Time | 未来のキミと、すべての歌に― | 2007/12/31 | 80% | [＊](http://doubleegg.blog89.fc2.com/blog-entry-14.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_ST-miku) | 
- | raiL-soft | 霞外籠逗留記 | 2008/07/25 | 70% | [＊](https://www.liar.co.jp/raiL/kagerou_top.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_raiL-kagerou) | 
+ | raiL-soft | 霞外籠逗留記 | 2008/07/25 | 65% | [＊](https://www.liar.co.jp/raiL/kagerou_top.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_raiL-kagerou) | 
  | Noesis | ラブesエム | 2013/08/30 | 70% | [＊](http://www.gungnir.co.jp/noesis/products/lovesm/index.html) | [＊](https://github.com/Prince-of-sea/IGS2ONS_Noesis-loveesm) | 
  | コンプリーツ | ママとの甘い性活Ⅱ | 2017/07/21 | 60% | [＊](http://www.complets.co.jp/complets/MS2/index.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_COMP-mama2) | 
+ | 羊おじさん倶楽部 | 魔女魔少魔法魔 | 2020/08/03 | 60% | [＊](https://unclesheepclub.web.fc2.com/letters/mgirlm/mgirlm.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_unclesheep_mgirlm) | 
  | るび様を崇める会 | セイラに夢みたいないちゃラブご奉仕させていただけますか | 2022/07/15 | 60% | [＊](https://rubisama.com/seira/) | [＊](https://github.com/Prince-of-sea/TYRANO2ONS_Rubisama-seilove/) | 
 
 ＞＞~~醜かった~~見にくかったので退避させた祖母シリーズコンバータは[こちら](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo)
