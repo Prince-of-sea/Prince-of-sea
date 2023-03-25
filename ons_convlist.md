@@ -33,5 +33,5 @@
 ＞＞~~醜かった~~見にくかったので退避させた祖母シリーズコンバータは[こちら](https://github.com/Prince-of-sea/KIRIKIRI2ONS_APTIT-sobo)
 
 <div align="center">
- <a href="../../">もどる</a>
+ <a href="../../../">もどる</a>
 </div>
