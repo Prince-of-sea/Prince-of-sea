@@ -8,7 +8,7 @@
 
 PC Specs:<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/yvmn5i-2.png)](https://valid.x86.fr/yvmn5i)←メイン機<br>
-[![CPU-Z](https://valid.x86.fr/cache/banner/2jucci-2.png)](https://valid.x86.fr/2jucci)←サブ機 現在グラボ死亡<br>
+[![CPU-Z](https://valid.x86.fr/cache/banner/jwelbm-2.png)](https://valid.x86.fr/jwelbm)←サブ機<br>
 
 - あなたは![アクセスカウンター](http://www.rays-counter.com/d505_f7_022/6241f4e53c2ce/)人目の訪問者です☆彡☆彡☆彡<br>
 
