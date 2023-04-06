@@ -5,10 +5,12 @@
 [![3](http://img.pointi.jp/bn/bn120_60.gif)](https://youtu.be/chD3oqjZnGM)
 [![4](https://www.chobirich.com/img/mypage/introduse/friend_120_60_b.gif)](https://bit.ly/393igGp)
 
+[![us](image2.png)](https://github.com/Prince-of-sea/UserscriptWorks_mk2)
 
 PC Specs:<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/yvmn5i-2.png)](https://valid.x86.fr/yvmn5i)←メイン機<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/jwelbm-2.png)](https://valid.x86.fr/jwelbm)←サブ機<br>
+[![CPU-Z](https://valid.x86.fr/cache/banner/vr547x-2.png)](https://valid.x86.fr/vr547x)←ノート<br>
 
 - あなたは![アクセスカウンター](http://www.rays-counter.com/d505_f7_022/6241f4e53c2ce/)人目の訪問者です☆彡☆彡☆彡<br>
 
