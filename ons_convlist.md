@@ -1,7 +1,7 @@
 ## 自作ONScripterコンバータ 対応作品リスト
  - タイトルは原作発売日古い順で並べてあります<br>
    (コンバータ側が当時のバージョンに対応しているとは限りません)<br>
- - とりあえず**全て[PSP(onscripter-20130202)で動作確認](https://github.com/Prince-of-sea/ONScripter_Multi_Converter)してます**<br>
+ - とりあえず**全て[PSP(onscripter-20110111)で動作確認](https://github.com/Prince-of-sea/ONScripter_Multi_Converter)してます**<br>
    Linux/Androidなども動くとは思いますが未検証<br>
  - ~~当然~~全部ブランド/サークルに許可取ってません<br>
    問い合わせとか迷惑だから絶対しないでね
