@@ -9,6 +9,10 @@
 
 PC Specs:<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/yvmn5i-2.png)](https://valid.x86.fr/yvmn5i)←メイン機<br>
+※数日前に換装しようとした電源が12V端子に過電圧を流したのが原因で<br>
+現在、上記の構成に記載してあるSATA HDD/SSDは**すべて**焼死しました<br>
+~~一生許さねえぞTh●rmaltak●~~<br>
+<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/jwelbm-2.png)](https://valid.x86.fr/jwelbm)←サブ機<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/vr547x-2.png)](https://valid.x86.fr/vr547x)←ノート<br>
 
