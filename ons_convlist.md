@@ -28,7 +28,7 @@
  | 夜のひつじ | 孤独に効く百合 | 2011/06/19 | 75% | [＊](http://yorunohitsuji.xii.jp/products/kodoyuri) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_yorunohitsuji_kodoyuri) | 
  | Noesis | ラブesエム | 2013/08/30 | 70% | [＊](http://www.gungnir.co.jp/noesis/products/lovesm/index.html) | [＊](https://github.com/Prince-of-sea/IGS2ONS_Noesis-loveesm) | 
  | コンプリーツ | ママとの甘い性活Ⅱ | 2017/07/21 | 50% | [＊](http://www.complets.co.jp/complets/MS2/index.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_COMP-mama2) | 
- | 羊おじさん倶楽部 | 魔女魔少魔法魔 | 2020/08/03 | 60% | [＊](https://unclesheepclub.web.fc2.com/letters/mgirlm/mgirlm.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_unclesheep_mgirlm) | 
+ | 羊おじさん倶楽部 | 魔女魔少魔法魔 | 2020/08/03 | 70% | [＊](https://unclesheepclub.web.fc2.com/letters/mgirlm/mgirlm.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_unclesheep_mgirlm) | 
  | るび様を崇める会 | セイラに夢みたいないちゃラブご奉仕させていただけますか | 2022/07/15 | 60% | [＊](https://rubisama.com/seira/) | [＊](https://github.com/Prince-of-sea/TYRANO2ONS_Rubisama-seilove/) | 
 
 <details>
