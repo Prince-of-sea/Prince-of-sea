@@ -9,7 +9,7 @@
 
 PC Specs:<br>
 [![CPU-Z](https://valid.x86.fr/cache/banner/d8ltzd-2.png)](https://valid.x86.fr/d8ltzd)←メイン機<br>
-[![CPU-Z](https://valid.x86.fr/cache/banner/vr547x-2.png)](https://valid.x86.fr/vr547x)←ノート<br>
+[![CPU-Z](https://valid.x86.fr/cache/banner/4y8zvh-2.png)](https://valid.x86.fr/4y8zvh)←ノート<br>
 
 - あなたは![アクセスカウンター](http://www.rays-counter.com/d505_f7_022/6241f4e53c2ce/)人目の訪問者です☆彡☆彡☆彡<br>
 
