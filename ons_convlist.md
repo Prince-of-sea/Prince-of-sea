@@ -30,6 +30,7 @@
  | コンプリーツ | ママとの甘い性活Ⅱ | 2017/07/21 | 50% | [＊](http://www.complets.co.jp/complets/MS2/index.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_COMP-mama2) | 
  | 羊おじさん倶楽部 | 魔女魔少魔法魔 | 2020/08/03 | 70% | [＊](https://unclesheepclub.web.fc2.com/letters/mgirlm/mgirlm.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_unclesheep_mgirlm) | 
  | るび様を崇める会 | セイラに夢みたいないちゃラブご奉仕させていただけますか | 2022/07/15 | 60% | [＊](https://rubisama.com/seira/) | [＊](https://github.com/Prince-of-sea/TYRANO2ONS_Rubisama-seilove/) | 
+ | CHARON | パチンカスロード | 2023/08/13 | 65% | [＊](https://enoshima210.work/2023/06/08/pachi/) | [＊](https://github.com/Prince-of-sea/TYRANO2ONS_CHARON-Pachi/) | 
 
 <details>
 <summary>祖母シリーズコンバータはこちら</summary>
