@@ -1,6 +1,6 @@
 [![新ADV島BB](image.gif)](ons_convlist.md)
 
-[![1](https://web.archive.org/web/20100522220543fw_/http://dietnavi.com/banner/120-60-3.gif)](https://youtu.be/dQw4w9WgXcQ)
+[![1](https://web.archive.org/web/20100522220543im_/http://dietnavi.com/banner/120-60-3.gif)](https://youtu.be/dQw4w9WgXcQ)
 [![2](http://www.gendama.jp/img/invitation_banner23.gif)](https://youtu.be/E9de-cmycx8)
 [![3](http://img.pointi.jp/bn/bn120_60.gif)](https://youtu.be/eYuUAGXN0KM)
 [![4](https://www.chobirich.com/img/mypage/introduse/friend_120_60_b.gif)](https://youtu.be/LLFhKaqnWwk)
@@ -19,5 +19,5 @@ PC Specs:<br>
 [![バナー](http://www.alcot.biz/img/alban_01.jpg)](http://www.alcot.biz/)
 [![バナー](http://qoo.amusecraft.com/banner.jpg)](http://qoo.amusecraft.com/)
 
-[![バナー](http://kai-soft.jp/images/kai_banner.jpg)](http://kai-soft.jp/)
+[![バナー](https://web.archive.org/web/20230808173718im_/http://kai-soft.jp/images/kai_banner.jpg)](https://web.archive.org/web/20231130175125fw_/http://kai-soft.jp/)
 [![バナー](http://www.acaciasoft.jp/acaciabn.png)](http://www.acaciasoft.jp/)
