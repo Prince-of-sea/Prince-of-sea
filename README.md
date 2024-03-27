@@ -19,5 +19,5 @@ PC Specs:<br>
 [![バナー](http://www.alcot.biz/img/alban_01.jpg)](http://www.alcot.biz/)
 [![バナー](http://qoo.amusecraft.com/banner.jpg)](http://qoo.amusecraft.com/)
 
-[![バナー](https://web.archive.org/web/20230808173718im_/http://kai-soft.jp/images/kai_banner.jpg)](https://web.archive.org/web/20231130175125fw_/http://kai-soft.jp/)
+[![バナー](http://kai-soft.jp/images/kai_banner.jpg)](http://kai-soft.jp/)
 [![バナー](http://www.acaciasoft.jp/acaciabn.png)](http://www.acaciasoft.jp/)
