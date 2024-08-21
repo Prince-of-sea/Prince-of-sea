@@ -21,8 +21,9 @@
  | ブランド名 | 作品タイトル | 原作発売日 | 完成度 | 公式 | DL先 | 
  | :- | :- | :- | :-: | :-: | :-: | 
  | ケロQ | 終ノ空 | 1999/08/27 | 70% | [＊](https://www.keroq.co.jp/product/sora/top.html) | [＊](https://gist.github.com/Prince-of-sea/f34df9184efad6a23e453017e2ab96c8) | 
-| ACTRESS | 虹を見つけたら教えて。 | 2004/10/29 | 75% | [＊](https://www.actress.ne.jp/products/nijimite/index.html) | [＊](https://github.com/Prince-of-sea/ACTGS2ONS_Actress-Nijimite) | 
+ | ACTRESS | 虹を見つけたら教えて。 | 2004/10/29 | 75% | [＊](https://www.actress.ne.jp/products/nijimite/index.html) | [＊](https://github.com/Prince-of-sea/ACTGS2ONS_Actress-Nijimite) | 
  | Liar-soft | SEVEN-BRIDGE | 2005/02/18 | 70% | [＊](https://www.liar.co.jp/seven.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_Liar-SB) | 
+ | CUFFS | ワンコとリリー ※DL版のみ パッケージ版非対応 | 2006/08/11 | 75% | [＊](https://www.cuffs.co.jp/products/wanko/) | [＊](https://gist.github.com/Prince-of-sea/c950e69c54c6e745b787cd954b95fc75) | 
  | Supplement Time | 未来のキミと、すべての歌に― | 2007/12/31 | 80% | [＊](http://doubleegg.blog89.fc2.com/blog-entry-14.html) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_ST-miku) | 
  | raiL-soft | 霞外籠逗留記 | 2008/07/25 | 65% | [＊](https://www.liar.co.jp/raiL/kagerou_top.html) | [＊](https://github.com/Prince-of-sea/RSC2ONS_raiL-kagerou) | 
  | 夜のひつじ | 孤独に効く百合 | 2011/06/19 | 75% | [＊](http://yorunohitsuji.xii.jp/products/kodoyuri) | [＊](https://github.com/Prince-of-sea/KIRIKIRI2ONS_yorunohitsuji_kodoyuri) | 
