@@ -1,9 +1,9 @@
 [![新ADV島BB](image.gif)](https://github.com/Prince-of-sea/ONScripter_Multi_Converter/blob/main/README_cnvlist.md)
 
 [![1](https://web.archive.org/web/20100522220543im_/http://dietnavi.com/banner/120-60-3.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![2](http://www.gendama.jp/img/invitation_banner23.gif)](https://www.youtube.com/watch?v=E9de-cmycx8)
-[![3](http://img.pointi.jp/bn/bn120_60.gif)](https://www.youtube.com/watch?v=eYuUAGXN0KM)
-[![4](https://www.chobirich.com/img/mypage/introduse/friend_120_60_b.gif)](https://www.youtube.com/watch?v=LLFhKaqnWwk)
+[![2](https://web.archive.org/web/20250202095024if_/http://www.gendama.jp/img/invitation_banner23.gif)](https://www.youtube.com/watch?v=E9de-cmycx8)
+[![3](https://web.archive.org/web/20241223113348if_/http://img.pointi.jp/bn/bn120_60.gif)](https://www.youtube.com/watch?v=eYuUAGXN0KM)
+[![4](https://web.archive.org/web/20221127044839if_/https://www.chobirich.com/img/mypage/introduse/friend_120_60_b.gif)](https://www.youtube.com/watch?v=LLFhKaqnWwk)
 
 [![us](image2.png)](https://github.com/Prince-of-sea/UserscriptWorks_mk2)
 
@@ -21,3 +21,5 @@ PC Specs:<br>
 
 [![バナー](http://kai-soft.jp/images/kai_banner.jpg)](http://kai-soft.jp/)
 [![バナー](http://www.acaciasoft.jp/acaciabn.png)](http://www.acaciasoft.jp/)
+
+![](https://web.archive.org/web/20060619163633if_/http://www.pat.hi-ho.ne.jp/~sata68/nds/noCrashMe.gif)
