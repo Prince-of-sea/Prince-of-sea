@@ -16,10 +16,10 @@ PC Specs:<br>
 ![1](http://www.rays-counter.com/images/counter_01.gif)![2](http://www.rays-counter.com/images/counter_02.gif)![3](http://www.rays-counter.com/images/counter_03.gif)![4](http://www.rays-counter.com/images/counter_04.gif)![5](http://www.rays-counter.com/images/counter_05.gif) 
 
 
-[![バナー](http://www.alcot.biz/img/alban_01.jpg)](http://www.alcot.biz/)
+[![バナー](https://web.archive.org/web/20250220133430if_/https://www.alcot.biz/img/alban_01.jpg)](http://www.alcot.biz/)
 [![バナー](http://qoo.amusecraft.com/banner.jpg)](http://qoo.amusecraft.com/)
 
 [![バナー](http://kai-soft.jp/images/kai_banner.jpg)](http://kai-soft.jp/)
 [![バナー](http://www.acaciasoft.jp/acaciabn.png)](http://www.acaciasoft.jp/)
 
-![](https://web.archive.org/web/20060619163633if_/http://www.pat.hi-ho.ne.jp/~sata68/nds/noCrashMe.gif)
+[![](https://web.archive.org/web/20060619163633if_/http://www.pat.hi-ho.ne.jp/~sata68/nds/noCrashMe.gif)](https://web.archive.org/web/20060706174911fw_/http://www.pat.hi-ho.ne.jp/~sata68/nds2.shtml)
